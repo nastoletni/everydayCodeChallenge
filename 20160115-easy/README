@@ -23,7 +23,7 @@ PRZYKŁADY WYJŚCIA:
 VIII
 MMCXXXVII
 1000
-1661
+1461
 
 Rozwiązania należy przesłać jako pull request do katalogu głównego repozytorium, a plik nazwać swoim nickiem z GitHuba z rozszerzeniem odpowiadającym językowi, w którym program został napisany.
 Jeden uczestnik może wysłać wiele rozwiązań tego samego problemu. W przypadku gdy kolejne rozwiązania są w tym samym języku, wypadku należy na końcu nazwy pliku dodać numer rozwiązania (np. themrp8.py.3).
