@@ -25,7 +25,7 @@ MMCXXXVII
 1000
 1461
 
-Rozwiązania należy przesłać jako pull request do katalogu głównego repozytorium, a plik nazwać swoim nickiem z GitHuba z rozszerzeniem odpowiadającym językowi, w którym program został napisany.
+Rozwiązania należy przesłać jako pull request do katalogu głównego repozytorium, a plik nazwać swoim nickiem z GitHuba z rozszerzeniem odpowiadającym językowi, w którym program został napisany (w przypadku archiw nie zmieniamy rozszerzenia archiwum. Rozszerzenie odpowiadające językowi dodajemy przed rozszerzeniem archiwum np. themrp8.cpp.zip).
 Jeden uczestnik może wysłać wiele rozwiązań tego samego problemu. W przypadku gdy kolejne rozwiązania są w tym samym języku, wypadku należy na końcu nazwy pliku dodać numer rozwiązania (np. themrp8.py.3).
 
 Nie jest dozwolony griefing w repozytorium. W tym wypadku pull request nie zostanie przyjęty.
