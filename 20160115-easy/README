@@ -5,11 +5,11 @@ POZIOM TRUDNOŚCI: łatwy
 DEADLINE: 2016.01.17 15:30
 JĘZYK: nienarzucony
 
-Napisz z użyciem programowania proceduralnego konwerter liczb romańskie<->dziesiętne.
+Napisz z użyciem programowania proceduralnego lub obiektowego konwerter liczb romańskie<->dziesiętne.
 Program powinien posiadać tekstowy interfejs użytkownika (CLI). Po uruchomienu program ma poprosić o liczbę, wykryć jej typ, przekonwertować ją na inny format, wydrukować przekonwertowany numerał i zakończyć działanie z kodem wyjścia 0.
 W przypadku, gdy liczba nie będzie zapisana w prawidłowym formacie lub wykroczy poza zakres 1-4999, program ma zakończyć działanie z kodem wyjścia 1.
 
-Aplikacja musi być napisana w jednym pliku.
+Aplikacja musi być napisana w jednym pliku bądź też spakowana w archiwum ZIP.
 
 PRZYKŁADY WEJŚCIA:
 XVIII
